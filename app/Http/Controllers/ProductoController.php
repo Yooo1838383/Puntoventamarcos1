@@ -23,7 +23,7 @@ class ProductoController extends Controller
             ->select('a.id_producto', 'a.nombre', 'a.codigo', 'a.stock', 'c.categoria', 'a.descripcion', 'a.imagen', 'a.estado')
             ->where('a.nombre', 'LIKE', '%' . $texto . '%')
             ->orWhere('a.codigo', 'LIKE', '%' . $texto . '%')
-            ->orderBy('a.id_producto', 'desc')
+            ->orderBy('a.id_producto', 'asc')
             ->paginate(10);
 
         return view('almacen.producto.index', compact('productos', 'texto'));

@@ -73,7 +73,7 @@
                                     <td>{{ $prod->nombre}}</td>
                                     <td>{{ $prod->stock}}</td>
                                     <td>{{ $prod->descripcion}}</td>
-                                    <td><img src="http://localhost/sistemaventajhosi/public/imagenes/productos/{{$prod->imagen}}" alt="{{ $prod->nombre }}" width="70px" height="70px" class="img-thumbnail"></td>
+                                    <td><img src="http://localhost/puntoventamarcos1/public/imagenes/productos/{{$prod->imagen}}" alt="{{ $prod->nombre }}" width="70px" height="70px" class="img-thumbnail"></td>
                                     <td>{{ $prod->estado}}</td>
                                 </tr>
                                 @include('almacen.producto.modal')

@@ -3,24 +3,24 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>SistemaVentaJhosi| Dashboard</title>
+  <title>PUNTO DE VENTA| Dashboard</title>
 
   <!-- Font Awesome -->
-  <link rel="stylesheet" href="/sistemaventajhosi/public/plugins/fontawesome-free/css/all.min.css">
+  <link rel="stylesheet" href="/puntoventamarcos1/public/plugins/fontawesome-free/css/all.min.css">
   <!-- Ionicons -->
   <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
   <!-- Tempusdominus Bootstrap 4 -->
-  <link rel="stylesheet" href="/sistemaventajhosi/public/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css">
+  <link rel="stylesheet" href="/puntoventamarcos1/public/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css">
   <!-- iCheck -->
-  <link rel="stylesheet" href="/sistemaventajhosi/public/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
+  <link rel="stylesheet" href="/puntoventamarcos1/public/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
   <!-- Theme style -->
-  <link rel="stylesheet" href="/sistemaventajhosi/public/dist/css/adminlte.min.css">
+  <link rel="stylesheet" href="/puntoventamarcos1/public/dist/css/adminlte.min.css">
   <!-- overlayScrollbars -->
-  <link rel="stylesheet" href="/sistemaventajhosi/public/plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
+  <link rel="stylesheet" href="/puntoventamarcos1/public/plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
   <!-- Daterange picker -->
-  <link rel="stylesheet" href="/sistemaventajhosi/public/plugins/daterangepicker/daterangepicker.css">
+  <link rel="stylesheet" href="/puntoventamarcos1/public/plugins/daterangepicker/daterangepicker.css">
   <!-- summernote -->
-  <link rel="stylesheet" href="/sistemaventajhosi/public/plugins/summernote/summernote-bs4.min.css">
+  <link rel="stylesheet" href="/puntoventamarcos1/public/plugins/summernote/summernote-bs4.min.css">
 </head>
 <body class="hold-transition sidebar-mini layout-fixed">
 <div class="wrapper">
@@ -75,8 +75,8 @@
   <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
     <a href="index3.html" class="brand-link">
-      <img src="/sistemaventajhosi/public/dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
-      <span class="brand-text font-weight-light">Agreda jhoselin</span>
+      <img src="/puntoventamarcos1/public/dist/img/LogoM.png" alt="LogoM" class="brand-image img-circle elevation-3" style="opacity: .8">
+      <span class="brand-text font-weight-light">Marcos Copa</span>
     </a>
 
     <!-- Sidebar -->
@@ -264,33 +264,33 @@
 <!-- ./wrapper -->
 
 <!-- jQuery -->
-<script src="/sistemaventajhosi/public/plugins/jquery/jquery.min.js"></script>
+<script src="/puntoventamarcos1/public/plugins/jquery/jquery.min.js"></script>
 <!-- jQuery UI 1.11.4 -->
-<script src="/sistemaventajhosi/public/plugins/jquery-ui/jquery-ui.min.js"></script>
+<script src="/puntoventamarcos1/public/plugins/jquery-ui/jquery-ui.min.js"></script>
 <!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
 <script>
   $.widget.bridge('uibutton', $.ui.button)
 </script>
 <!-- Bootstrap 4 -->
-<script src="/sistemaventajhosi/public/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="/puntoventamarcos1/public/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
 <!-- ChartJS -->
-<script src="/sistemaventajhosi/public/plugins/chart.js/Chart.min.js"></script>
+<script src="/puntoventamarcos1/public/plugins/chart.js/Chart.min.js"></script>
 <!-- Sparkline -->
-<script src="/sistemaventajhosi/public/plugins/sparklines/sparkline.js"></script>
+<script src="/puntoventamarcos1/public/plugins/sparklines/sparkline.js"></script>
 <!-- jQuery Knob Chart -->
-<script src="/sistemaventajhosi/public/plugins/jquery-knob/jquery.knob.min.js"></script>
+<script src="/puntoventamarcos1/public/plugins/jquery-knob/jquery.knob.min.js"></script>
 <!-- daterangepicker -->
-<script src="/sistemaventajhosi/public/plugins/moment/moment.min.js"></script>
-<script src="/sistemaventajhosi/public/plugins/daterangepicker/daterangepicker.js"></script>
+<script src="/puntoventamarcos1/public/plugins/moment/moment.min.js"></script>
+<script src="/puntoventamarcos1/public/plugins/daterangepicker/daterangepicker.js"></script>
 <!-- Tempusdominus Bootstrap 4 -->
-<script src="/sistemaventajhosi/public/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js"></script>
+<script src="/puntoventamarcos1/public/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js"></script>
 <!-- Summernote -->
-<script src="/sistemaventajhosi/public/plugins/summernote/summernote-bs4.min.js"></script>
+<script src="/puntoventamarcos1/public/plugins/summernote/summernote-bs4.min.js"></script>
 <!-- overlayScrollbars -->
-<script src="/sistemaventajhosi/public/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
+<script src="/puntoventamarcos1/public/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
 <!-- AdminLTE App -->
-<script src="/sistemaventajhosi/public/dist/js/adminlte.js"></script>
+<script src="/puntoventamarcos1/public/dist/js/adminlte.js"></script>
 <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
-<script src="/sistemaventajhosi/public/dist/js/pages/dashboard.js"></script>
+<script src="/puntoventamarcos1/public/dist/js/pages/dashboard.js"></script>
 </body>
 </html>
